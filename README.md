@@ -42,5 +42,5 @@ By participating, you allow other TPPs to benefit from information sharing. Ther
 
 ### Unofficial
 
-* [::page_with_curl: Open Banking Space Blog](https://blog.openbanking.space)
+* [:page_with_curl: Open Banking Space Blog](https://blog.openbanking.space)
 * [:speech_balloon: Open Banking Space Slack](http://signup.openbanking.space/)

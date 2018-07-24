@@ -44,3 +44,16 @@ By participating, you allow other TPPs to benefit from information sharing. Ther
 
 * [:page_with_curl: Open Banking Space Blog](https://blog.openbanking.space)
 * [:speech_balloon: Open Banking Space Slack](http://signup.openbanking.space/)
+
+### Open Issues By ASPSP
+
+* [AIB](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Aaib)
+* [Barclays](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Abarclays)
+* [Bank of Ireland](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Aboi)
+* [Danske](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Adanske)
+* [HSBC Group](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Ahsbcg)
+* [LBG](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Albg)
+* [Nationwide](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Anationwide)
+* [RBS Group](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Arbsg)
+* [Santander](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Asantander)
+* [_Reference ASPSPs_](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Areference)

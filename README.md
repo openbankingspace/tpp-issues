@@ -29,3 +29,18 @@ It is **VITALLY** important that everyone is aware - all content posted here is 
 ---
 
 By participating, you allow other TPPs to benefit from information sharing. There is no competitive advantage in having the best implementation of an unstable, unadopted system, as such we will all benefit from reduced barriers to entry and faster incident triage if we share issues together. 
+
+---
+
+## Links
+
+### Official
+
+* [:bank: Open Banking UK](https://www.openbanking.org.uk/)
+* [:lock: Open Banking Service Desk (OBSD)](https://openbanking.atlassian.net/servicedesk/)
+* [:lock: Planned API Downtime and Hotfixes](https://openbanking.atlassian.net/wiki/spaces/DZ/pages/441614754/Planned+API+Downtime+and+Hotfixes)
+
+### Unofficial
+
+* [::page_with_curl: Open Banking Space Blog](https://blog.openbanking.space)
+* [:speech_balloon: Open Banking Space Slack](http://signup.openbanking.space/)

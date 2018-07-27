@@ -36,9 +36,10 @@ By participating, you allow other TPPs to benefit from information sharing. Ther
 
 ### Official
 
-* [:bank: Open Banking UK](https://www.openbanking.org.uk/)
+* [:exclamation: Official Known Issues (Confluence)]https://openbanking.atlassian.net/wiki/spaces/DZ/pages/504496461/Current+Issues
+* [:watch: Planned API Downtime and Hotfixes](https://openbanking.atlassian.net/wiki/spaces/DZ/pages/441614754/Planned+API+Downtime+and+Hotfixes)
 * [:lock: Open Banking Service Desk (OBSD)](https://openbanking.atlassian.net/servicedesk/)
-* [:lock: Planned API Downtime and Hotfixes](https://openbanking.atlassian.net/wiki/spaces/DZ/pages/441614754/Planned+API+Downtime+and+Hotfixes)
+* [:bank: Open Banking UK](https://www.openbanking.org.uk/)
 
 ### Unofficial
 

@@ -57,4 +57,7 @@ By participating, you allow other TPPs to benefit from information sharing. Ther
 * [Nationwide](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Anationwide)
 * [RBS Group](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Arbsg)
 * [Santander](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Asantander)
-* [_Reference ASPSPs_](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Areference)
+
+Reference
+* [_Forgerock OBRI_](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Aref_forgerock )
+* [_Ozone (Modelo, Referenco)_](https://github.com/openbankingspace/tpp-issues/issues?q=is%3Aopen+is%3Aissue+label%3Aaspsp%3Aref_ozone )
